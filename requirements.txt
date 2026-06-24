@@ -1,4 +1,4 @@
-Django==1.2
+Django==6.0.6
 
 urllib3==1.25.8
 requests==2.19.0
